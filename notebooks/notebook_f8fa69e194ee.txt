@@ -1,0 +1,9 @@
+Detective T's Notebook
+Case: The Ravenwood Manor Mystery
+Started: 2026-05-23 21:16
+==================================================
+
+[21:16] [INFO] Detective T took the case.
+[21:16] [INFO] Case: The Ravenwood Manor Mystery
+[21:16] [ACCUSATION] Accused Dr. Nigel Pembroke; key evidence: the half-finished letter on the desk
+[21:16] [RESULT] Case failed. The chosen evidence is not what convicts the killer.

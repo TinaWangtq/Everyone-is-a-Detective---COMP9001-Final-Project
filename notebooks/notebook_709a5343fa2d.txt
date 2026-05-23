@@ -1,0 +1,9 @@
+Detective Tr's Notebook
+Case: The Ravenwood Manor Mystery
+Started: 2026-05-23 19:44
+==================================================
+
+[19:44] [INFO] Detective Tr took the case.
+[19:44] [INFO] Case: The Ravenwood Manor Mystery
+[19:44] [ACCUSATION] Accused Dr. Nigel Pembroke; key evidence: the doctor's medical bag
+[19:44] [RESULT] Case solved!

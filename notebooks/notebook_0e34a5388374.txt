@@ -1,0 +1,7 @@
+Detective T's Notebook
+Case: The Ravenwood Manor Mystery
+Started: 2026-05-23 20:07
+==================================================
+
+[20:07] [INFO] Detective T took the case.
+[20:07] [INFO] Case: The Ravenwood Manor Mystery

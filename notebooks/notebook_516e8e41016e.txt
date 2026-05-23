@@ -1,0 +1,19 @@
+Detective Tina's Notebook
+Case: The Ravenwood Manor Mystery
+Started: 2026-05-20 23:07
+==================================================
+
+[23:07] [INFO] Detective Tina took the case.
+[23:07] [INFO] Case: The Ravenwood Manor Mystery
+[23:07] [CLUE] Medical bag: brass mortar is heavy, right shape for the wound, and has dark flecks in the seams (washed but not perfectly). Handkerchief faintly stained. Chloral hydrate vial empty — victim may have been drugged before the blow.
+[23:08] [CLUE] Letter-opener: 'blood' on blade is actually RED INK. Victim was BLUDGEONED, not stabbed. This is NOT the weapon. A false lead.
+[23:08] [CLUE] Open window: NO footprints below despite soft earth. Latch opened from inside. The 'intruder' theory is staged — the killer is someone INSIDE the manor.
+[23:08] [CLUE] Library teacup: tea was indeed brought at 11:30 as Clara said. Butler corroborates. Dark drop on saucer is just spilt tea. Supports Clara's alibi.
+[23:10] [CLUE] Crowe's boots: muddy, consistent with garden. Red smear is BRICK DUST, not blood. His alibi (in the garden) is corroborated by the cook. Crowe is likely INNOCENT.
+[23:10] [Q&A: Miss Clara Hartwell] Q: Where were you at 11:47 PM last night?  ->  A: I was in the library, reading by the fire. The butler brought me tea at 11:30. I heard nothing unusual until the scream at midnight. Though... I suppose no one can vouch for me after the tea arrived.
+[23:10] [Q&A: Miss Clara Hartwell] Q: What was your relationship with Lord Ravenwood?  ->  A: Uncle Edmund raised me after my parents died. We had our quarrels — he disapproved of my engagement to a man without fortune — but I loved him dearly. The inheritance means little compared to that.
+[23:10] [Q&A: Miss Clara Hartwell] Q: Did you see anyone near the study?  ->  A: I saw Dr. Pembroke in the hallway around 11:15, carrying his medical bag. He said Uncle Edmund had asked for a sleeping draught. Later, near midnight, I thought I heard footsteps on the back stairs.
+[23:11] [Q&A: Miss Clara Hartwell] Q: Do you suspect anyone?  ->  A: Mr. Crowe argued bitterly with Uncle just last week over a Ming vase. I heard him shout, 'You'll regret this, Edmund!' But murder? I cannot say. Dr. Pembroke is so very calm — perhaps too calm.
+[23:11] [Q&A: Dr. Nigel Pembroke] Q: Where were you at 11:47 PM last night?  ->  A: I retired to my guest room at 11 o'clock after delivering a sleeping draught to Edmund. I read for some time before sleeping. Of course, no one saw me — but a physician learns the value of rest.
+[23:12] [ACCUSATION] Accused Dr. Nigel Pembroke; key evidence: the doctor's medical bag
+[23:12] [RESULT] Case solved!

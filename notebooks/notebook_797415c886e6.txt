@@ -1,0 +1,29 @@
+Detective Tina's Notebook
+Case: The Ravenwood Manor Mystery
+Started: 2026-05-23 21:14
+==================================================
+
+[21:14] [INFO] Detective Tina took the case.
+[21:14] [INFO] Case: The Ravenwood Manor Mystery
+[21:15] [Q&A: Miss Clara Hartwell] Q: Where were you at 11:47 PM last night?  ->  A: I was in the library, reading by the fire. The butler brought me tea at 11:30. I heard nothing unusual until the scream at midnight. Though... I suppose no one can vouch for me after the tea arrived.
+[21:15] [Q&A: Miss Clara Hartwell] Q: What was your relationship with Lord Ravenwood?  ->  A: Uncle Edmund raised me after my parents died. We had our quarrels — he disapproved of my engagement to a man without fortune — but I loved him dearly. The inheritance means little compared to that.
+[21:15] [Q&A: Miss Clara Hartwell] Q: Did you see anyone near the study?  ->  A: I saw Dr. Pembroke in the hallway around 11:15, carrying his medical bag. He said Uncle Edmund had asked for a sleeping draught. Later, near midnight, I thought I heard footsteps on the back stairs.
+[21:15] [Q&A: Miss Clara Hartwell] Q: Do you suspect anyone?  ->  A: Mr. Crowe argued bitterly with Uncle just last week over a Ming vase. I heard him shout, 'You'll regret this, Edmund!' But murder? I cannot say. Dr. Pembroke is so very calm — perhaps too calm.
+[21:15] [Q&A: Dr. Nigel Pembroke] Q: Where were you at 11:47 PM last night?  ->  A: I retired to my guest room at 11 o'clock after delivering a sleeping draught to Edmund. I read for some time before sleeping. Of course, no one saw me — but a physician learns the value of rest.
+[21:15] [Q&A: Dr. Nigel Pembroke] Q: What was your relationship with Lord Ravenwood?  ->  A: We were the dearest of friends for thirty years. Why, only last month I lent him a considerable sum — a private matter between gentlemen. I see no reason to dwell on it now.
+[21:15] [Q&A: Dr. Nigel Pembroke] Q: Did you see anyone near the study?  ->  A: No one. The hallway was quite empty when I left Edmund's study at 11:15. Though I did notice that Miss Hartwell's library door was ajar — a small detail, perhaps.
+[21:15] [Q&A: Dr. Nigel Pembroke] Q: May I examine your medical bag?  ->  A: My bag? Whatever for? It contains only the usual instruments of my profession. I... I left it in my room. If you must, you must, but I think you waste your time on an old man's possessions.
+[21:15] [Q&A: Mr. Silas Crowe] Q: Where were you at 11:47 PM last night?  ->  A: In the garden, smoking a cigar — a habit Edmund would never permit indoors. I came in through the kitchen door at midnight and heard Miss Hartwell screaming. The cook saw me enter, if you doubt my word.
+[21:15] [Q&A: Mr. Silas Crowe] Q: What was your relationship with Lord Ravenwood?  ->  A: Business rivals, nothing more. He outbid me on a Ming vase last week by spiteful means. I shouted some words I regret — but I do not kill men over porcelain, Detective. There are easier ways.
+[21:15] [Q&A: Mr. Silas Crowe] Q: Did you see anyone near the study?  ->  A: From the garden I saw a light in the study window until about 11:40, then it went out. A shadow moved across the curtain shortly before. I thought nothing of it at the time.
+[21:15] [Q&A: Mr. Silas Crowe] Q: Why are you really here at the manor?  ->  A: Edmund invited me to discuss a truce. He owed money all over London and wished to settle our quarrel — ask Pembroke about the loan, if you don't believe me. Edmund was in worse straits than anyone knew.
+[21:15] [CLUE] Brass candlestick: red smear is OLD SEALING WAX, not blood. Recently polished — almost too clean. Suspicious.
+[21:15] [CLUE] Open window: NO footprints below despite soft earth. Latch opened from inside. The 'intruder' theory is staged — the killer is someone INSIDE the manor.
+[21:15] [CLUE] Letter: Lord Ravenwood discovered Dr. Pembroke FORGED his signature on a £5,000 loan. He was about to inform his solicitor. MOTIVE for Pembroke — exposure and ruin.
+[21:15] [CLUE] Letter-opener: 'blood' on blade is actually RED INK. Victim was BLUDGEONED, not stabbed. This is NOT the weapon. A false lead.
+[21:15] [CLUE] Medical bag: brass mortar is heavy, right shape for the wound, and has dark flecks in the seams (washed but not perfectly). Handkerchief faintly stained. Chloral hydrate vial empty — victim may have been drugged before the blow.
+[21:15] [CLUE] Crowe's boots: muddy, consistent with garden. Red smear is BRICK DUST, not blood. His alibi (in the garden) is corroborated by the cook. Crowe is likely INNOCENT.
+[21:15] [CLUE] Library teacup: tea was indeed brought at 11:30 as Clara said. Butler corroborates. Dark drop on saucer is just spilt tea. Supports Clara's alibi.
+[21:15] [CLUE] Library teacup: tea was indeed brought at 11:30 as Clara said. Butler corroborates. Dark drop on saucer is just spilt tea. Supports Clara's alibi.
+[21:15] [ACCUSATION] Accused Dr. Nigel Pembroke; key evidence: the doctor's medical bag
+[21:15] [RESULT] Case solved!

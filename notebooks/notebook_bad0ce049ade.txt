@@ -1,0 +1,9 @@
+Detective T's Notebook
+Case: The Ravenwood Manor Mystery
+Started: 2026-05-23 19:43
+==================================================
+
+[19:43] [INFO] Detective T took the case.
+[19:43] [INFO] Case: The Ravenwood Manor Mystery
+[19:43] [ACCUSATION] Accused Dr. Nigel Pembroke; key evidence: the heavy brass candlestick
+[19:43] [RESULT] Case failed. The chosen evidence is not what convicts the killer.

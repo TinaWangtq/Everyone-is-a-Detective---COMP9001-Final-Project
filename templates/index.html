@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>The Ravenwood Manor Mystery</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+
+  <!-- Configuration shared with JS -->
+  <script>
+    window.GAME_CONFIG = {
+      genders: {{ genders | tojson }},
+      imageMap: {{ image_map | tojson }},
+      audioMap: {{ audio_map | tojson }},
+      staticBase: "{{ url_for('static', filename='') }}"
+    };
+  </script>
+
+  <!-- Cinematic background layers -->
+  <div id="bg-layer"></div>
+  <div id="bg-overlay"></div>
+
+  <!-- Audio elements (one per sound) -->
+  <audio id="audio-ambient" loop></audio>
+  <audio id="audio-click"></audio>
+  <audio id="audio-page"></audio>
+  <audio id="audio-discovery"></audio>
+  <audio id="audio-success"></audio>
+  <audio id="audio-failure"></audio>
+
+  <!-- Main app shell -->
+  <div id="app">
+
+    <!-- ============= TOP BAR ============= -->
+    <header id="topbar">
+      <div class="brand">EVERYONE IS A DETECTIVE</div>
+      <div class="top-controls">
+        <button id="sound-toggle" class="icon-btn">♫ Sound: Off</button>
+        <button id="notebook-toggle" class="icon-btn">
+          ✒ Notebook
+          <span class="badge hidden" id="notebook-badge">0</span>
+        </button>
+      </div>
+    </header>
+
+    <!-- ============= STAGE (panel goes here) ============= -->
+    <main id="stage">
+      <!-- Panel content rendered by JS -->
+    </main>
+  </div>
+
+  <!-- ============= NOTEBOOK PANEL ============= -->
+  <div id="notebook-backdrop"></div>
+  <aside id="notebook-panel">
+    <div class="notebook-header">
+      <h3 id="notebook-title">Notebook</h3>
+      <button class="notebook-close" id="notebook-close" aria-label="Close">×</button>
+    </div>
+    <div class="notebook-tabs">
+      <button class="notebook-tab active" data-tab="all">All</button>
+      <button class="notebook-tab" data-tab="CLUE">Clues</button>
+      <button class="notebook-tab" data-tab="Q&A">Q&amp;A</button>
+      <button class="notebook-tab" data-tab="THOUGHT">Thoughts</button>
+    </div>
+    <div class="notebook-body" id="notebook-body">
+      <div class="empty-notes">No entries yet. Begin the investigation.</div>
+    </div>
+    <div class="notebook-footer">
+      <textarea id="thought-input" class="thought-input"
+                placeholder="A private thought to record..."></textarea>
+      <div class="row">
+        <button class="small-btn" id="notebook-download">⬇ Download</button>
+        <button class="small-btn gold" id="thought-add">Pen it</button>
+      </div>
+    </div>
+  </aside>
+
+  <!-- Toast notifications -->
+  <div id="toast"></div>
+
+  <script src="{{ url_for('static', filename='js/app.js') }}"></script>
+</body>
+</html>

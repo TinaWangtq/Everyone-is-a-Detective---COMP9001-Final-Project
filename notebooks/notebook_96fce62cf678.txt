@@ -1,0 +1,17 @@
+Detective Tardy's Notebook
+Case: The Ravenwood Manor Mystery
+Started: 2026-05-20 22:53
+==================================================
+
+[22:53] [INFO] Detective Tardy took the case.
+[22:53] [INFO] Case: The Ravenwood Manor Mystery
+[22:53] [THOUGHT] hi
+[22:54] [CLUE] Letter: Lord Ravenwood discovered Dr. Pembroke FORGED his signature on a £5,000 loan. He was about to inform his solicitor. MOTIVE for Pembroke — exposure and ruin.
+[22:54] [CLUE] Open window: NO footprints below despite soft earth. Latch opened from inside. The 'intruder' theory is staged — the killer is someone INSIDE the manor.
+[22:54] [CLUE] Library teacup: tea was indeed brought at 11:30 as Clara said. Butler corroborates. Dark drop on saucer is just spilt tea. Supports Clara's alibi.
+[22:54] [Q&A: Dr. Nigel Pembroke] Q: What was your relationship with Lord Ravenwood?  ->  A: We were the dearest of friends for thirty years. Why, only last month I lent him a considerable sum — a private matter between gentlemen. I see no reason to dwell on it now.
+[22:54] [Q&A: Dr. Nigel Pembroke] Q: Did you see anyone near the study?  ->  A: No one. The hallway was quite empty when I left Edmund's study at 11:15. Though I did notice that Miss Hartwell's library door was ajar — a small detail, perhaps.
+[22:54] [Q&A: Miss Clara Hartwell] Q: Did you see anyone near the study?  ->  A: I saw Dr. Pembroke in the hallway around 11:15, carrying his medical bag. He said Uncle Edmund had asked for a sleeping draught. Later, near midnight, I thought I heard footsteps on the back stairs.
+[22:54] [Q&A: Miss Clara Hartwell] Q: Where were you at 11:47 PM last night?  ->  A: I was in the library, reading by the fire. The butler brought me tea at 11:30. I heard nothing unusual until the scream at midnight. Though... I suppose no one can vouch for me after the tea arrived.
+[23:07] [ACCUSATION] Accused Dr. Nigel Pembroke; key evidence: the half-finished letter on the desk
+[23:07] [RESULT] Case failed. The chosen evidence is not what convicts the killer.

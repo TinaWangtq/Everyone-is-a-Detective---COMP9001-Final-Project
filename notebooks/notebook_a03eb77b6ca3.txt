@@ -1,0 +1,10 @@
+Detective T's Notebook
+Case: The Ravenwood Manor Mystery
+Started: 2026-05-23 19:53
+==================================================
+
+[19:53] [INFO] Detective T took the case.
+[19:53] [INFO] Case: The Ravenwood Manor Mystery
+[19:53] [CLUE] Brass candlestick: red smear is OLD SEALING WAX, not blood. Recently polished — almost too clean. Suspicious.
+[19:53] [CLUE] Open window: NO footprints below despite soft earth. Latch opened from inside. The 'intruder' theory is staged — the killer is someone INSIDE the manor.
+[19:53] [CLUE] Letter: Lord Ravenwood discovered Dr. Pembroke FORGED his signature on a £5,000 loan. He was about to inform his solicitor. MOTIVE for Pembroke — exposure and ruin.
