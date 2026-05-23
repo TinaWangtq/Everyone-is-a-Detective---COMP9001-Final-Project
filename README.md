@@ -18,16 +18,10 @@ The game is designed around classic deduction: not every suspicious detail is me
 - A modern web browser (Chrome, Firefox, Edge, Safari)
 
 ### Start the Game
-Download the zip file from GitHub, unzip it on the desktop, and use PyCharm or another compiler to open the folder.
-
-Or you can unzip the folder in the terminal:
-```bash
-unzip final_deject_game.zip
-```
+Download the zip file from GitHub, unzip it on the desktop or in the terminal, and use PyCharm or another compiler to open the folder.
 
 Enter the following in the terminal to start the game:
 ```bash
-cd final_deject_game
 pip install flask pillow numpy
 python app.py                 # ← starts the game server
 ```
@@ -36,6 +30,8 @@ Then open **http://localhost:5000** in your browser.
 
 ---
 ## General Game Flow
+
+💡 Tips: You can turn on the music to get a better immersive experience!
 
 The game proceeds through these phases:
 

@@ -1,0 +1,8 @@
+Detective Tina's Notebook
+Case: The Ravenwood Manor Mystery
+Started: 2026-05-24 01:16
+==================================================
+
+[01:16] [INFO] Detective Tina took the case.
+[01:16] [INFO] Case: The Ravenwood Manor Mystery
+[01:16] [CLUE] Brass candlestick: red smear is OLD SEALING WAX, not blood. Recently polished — almost too clean. Suspicious.

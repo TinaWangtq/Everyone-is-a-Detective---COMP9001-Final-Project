@@ -191,7 +191,7 @@ SCENE_ITEMS = {
         "notebook_hint": (
             "Letter: Lord Ravenwood discovered Dr. Pembroke FORGED his "
             "signature on a £5,000 loan. He was about to inform his solicitor. "
-            "MOTIVE for Pembroke — exposure and ruin."
+            "This might be Pembroke's motivation."
         )
     },
     "the antique letter-opener on the floor": {
@@ -200,19 +200,20 @@ SCENE_ITEMS = {
         "description": (
             "An ornate silver letter-opener, lying about three feet from the "
             "desk on the patterned rug. The tip is sharp. Most strikingly, "
-            "there is a dark reddish stain along the blade — at first glance, "
+            "there is a dark reddish stain along the blade, "
             "it looks like blood.\n\n"
             "But Lord Ravenwood did not die from a stab wound. He died from "
             "blunt-force trauma to the back of the head. And under closer "
             "inspection, the 'blood' is too brown, too thin, too uniform. "
-            "It is red ink — the same ink Ravenwood used in his correspondence. "
-            "The opener was simply knocked from the desk during the struggle.\n\n"
-            "A red herring, but worth noting."
+            "These may not be real blood, these might be..."
+            "The opener may have just been knocked off the desk during the struggle.\n\n"
+            "May be a red herring, worth noting."
         ),
         "notebook_hint": (
-            "Letter-opener: 'blood' on blade is actually RED INK. "
+            "Letter-opener: The 'blood' on the blade doesn't look like real blood. "
+            "What could it be? "
             "Victim was BLUDGEONED, not stabbed. This is NOT the weapon. "
-            "A false lead."
+            "This might be a false lead."
         )
     },
     "the doctor's medical bag": {
@@ -229,7 +230,8 @@ SCENE_ITEMS = {
             "dark flecks that water alone could not reach. The handkerchief "
             "wrapped around it bears a faint brown stain.\n\n"
             "There is also a small empty vial labelled 'Chloral hydrate' — a "
-            "sleeping draught, in a dose far beyond what is medically wise.\n\n"
+            "sleeping draught, and the entire bottle's dosage was enough for "
+            "the patient to use four times.\n\n"
             "This may prove a very significant find. Record every detail."
         ),
         "notebook_hint": (
@@ -245,15 +247,15 @@ SCENE_ITEMS = {
         "description": (
             "A pair of muddy gentlemen's boots — Mr. Crowe's, by the size and "
             "make. The mud is fresh and consistent with the wet garden earth. "
-            "There is a small reddish smear on the right boot, but it appears "
-            "to be brick-dust from the garden path, not blood.\n\n"
+            "There is a small reddish smear on the right boot, but this "
+            "doesn't look much like bloodstains.\n\n"
             "The cook confirms Mr. Crowe entered through the kitchen at "
             "midnight, just after the discovery of the body. He could not "
             "easily have been in the study at 11:47 — but he was certainly "
             "outside, where he claims. A useful piece of corroboration."
         ),
         "notebook_hint": (
-            "Crowe's boots: muddy, consistent with garden. Red smear is "
+            "Crowe's boots: muddy, consistent with garden. Red smear might be "
             "BRICK DUST, not blood. His alibi (in the garden) is "
             "corroborated by the cook. Crowe is likely INNOCENT."
         )

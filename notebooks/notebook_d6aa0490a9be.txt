@@ -1,0 +1,9 @@
+Detective T's Notebook
+Case: The Ravenwood Manor Mystery
+Started: 2026-05-24 01:32
+==================================================
+
+[01:32] [INFO] Detective T took the case.
+[01:32] [INFO] Case: The Ravenwood Manor Mystery
+[01:32] [CLUE] Letter: Lord Ravenwood discovered Dr. Pembroke FORGED his signature on a £5,000 loan. He was about to inform his solicitor. MOTIVE for Pembroke — exposure and ruin.
+[01:32] [CLUE] Letter-opener: 'blood' on blade is actually RED INK. Victim was BLUDGEONED, not stabbed. This is NOT the weapon. A false lead.
