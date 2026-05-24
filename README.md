@@ -122,3 +122,7 @@ Good luck, detective. The game is afoot. 🕵️
 | Multi-dimensional list | `build_deduction_matrix` returns 3×8 list |
 
 ---
+
+### Usage of AI
+
+When completing this task, I used Claude and ChatGPT as artificial intelligence assistants for modifying project code and resolving bugs; Use Dou Bao to generate various images.

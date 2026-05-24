@@ -52,24 +52,37 @@ SUSPECTS = {
         ),
         "questions": {
             "Where were you at 11:47 PM last night?": (
-                "I was in the library, reading by the fire. The butler brought me "
-                "tea at 11:30. I heard nothing unusual until the scream at midnight. "
-                "Though... I suppose no one can vouch for me after the tea arrived."
+                "“In the library, I believe. The fire had burned quite low by then, "
+                "and I remember losing track of the hour entirely."
+                "The butler brought me tea sometime after half past eleven — chamomile, "
+                "though I scarcely touched it. I was attempting to read, but my thoughts "
+                "were elsewhere."
+                "I heard no cry. No struggle. Only the old house settling around me... "
+                "and then, at midnight, the scream.”"
             ),
             "What was your relationship with Lord Ravenwood?": (
-                "Uncle Edmund raised me after my parents died. We had our quarrels — "
-                "he disapproved of my engagement to a man without fortune — but I "
-                "loved him dearly. The inheritance means little compared to that."
+                "“Uncle Edmund could be difficult. Proud men often are."
+                "After my parents died, this house became my entire world. "
+                "He provided for me, educated me, protected me in his own stern fashion. "
+                "But affection was never something he expressed easily."
+                "Lately... we argued more than we once did. He disapproved of nearly everyone I trusted. "
+                "Still, I never imagined...”\n\n"
+                
+                "She lowers her eyes."
+                "“I never imagined the house without him in it.”"
             ),
             "Did you see anyone near the study?": (
-                "I saw Dr. Pembroke in the hallway around 11:15, carrying his "
-                "medical bag. He said Uncle Edmund had asked for a sleeping draught. "
-                "Later, near midnight, I thought I heard footsteps on the back stairs."
+                "“Dr. Pembroke passed through the corridor earlier in the evening. I remember hearing "
+                "the clasp of his medical bag strike against the banister as he walked."
+                "He said Uncle Edmund was having difficulty sleeping again."
+                "After that... I’m less certain. At some point I thought I heard movement on the back staircase, "
+                "slow footsteps, as though someone was trying not to be heard. "
+                "But old houses create strange echoes at night.”"
             ),
             "Do you suspect anyone?": (
-                "Mr. Crowe argued bitterly with Uncle just last week over a Ming vase. "
+                "“Mr. Crowe argued bitterly with Uncle just last week over a Ming vase. "
                 "I heard him shout, 'You'll regret this, Edmund!' But murder? I "
-                "cannot say. Dr. Pembroke is so very calm — perhaps too calm."
+                "cannot say. Dr. Pembroke is so very calm — perhaps too calm.”"
             )
         }
     },
@@ -82,24 +95,34 @@ SUSPECTS = {
         ),
         "questions": {
             "Where were you at 11:47 PM last night?": (
-                "I retired to my guest room at 11 o'clock after delivering a "
-                "sleeping draught to Edmund. I read for some time before sleeping. "
-                "Of course, no one saw me — but a physician learns the value of rest."
+                "“At my age, Detective, one develops rather predictable habits. "
+                "I retired shortly after eleven."
+                "Edmund had requested a sleeping draught — nothing unusual, I assure you. "
+                "He suffered dreadful insomnia whenever financial matters troubled him."
+                "I spent perhaps half an hour reading in my room. Some medical journals, "
+                "if memory serves. After that, I extinguished the lamp and slept rather poorly.”"
             ),
             "What was your relationship with Lord Ravenwood?": (
-                "We were the dearest of friends for thirty years. Why, only last "
-                "month I lent him a considerable sum — a private matter between "
-                "gentlemen. I see no reason to dwell on it now."
+                "“Thirty years of friendship cannot be summarized in a sentence."
+                "We travelled Egypt together as young men. We buried mutual friends. "
+                "We survived scandals neither of us cared to speak of publicly."
+                "Edmund was stubborn, reckless with money, and incapable of admitting weakness,"
+                "but he was still my friend. Whatever others may imply.”"
             ),
             "Did you see anyone near the study?": (
-                "No one. The hallway was quite empty when I left Edmund's study "
+                "“No one. The hallway was quite empty when I left Edmund's study "
                 "at 11:15. Though I did notice that Miss Hartwell's library door "
-                "was ajar — a small detail, perhaps."
+                "was ajar — a small detail, perhaps.”"
             ),
             "May I examine your medical bag?": (
-                "My bag? Whatever for? It contains only the usual instruments of "
-                "my profession. I... I left it in my room. If you must, you must, "
-                "but I think you waste your time on an old man's possessions."
+                "“My medical bag?”\n\n"
+                "For the first time, the doctor pauses before answering.\n\n"
+                "“Certainly, if procedure requires it. "
+                "Though I confess I find the request rather peculiar. "
+                "A physician’s bag contains little of interest to anyone outside the profession. "
+                "Bottles, instruments, powders... the ordinary paraphernalia of a long career.”\n\n"
+                "He adjusts his gloves carefully before continuing.\n\n"
+                "“Still, I have nothing whatsoever to hide.”"
             )
         }
     },
@@ -112,26 +135,26 @@ SUSPECTS = {
         ),
         "questions": {
             "Where were you at 11:47 PM last night?": (
-                "In the garden, smoking a cigar — a habit Edmund would never "
+                "“In the garden, smoking a cigar — a habit Edmund would never "
                 "permit indoors. I came in through the kitchen door at midnight "
                 "and heard Miss Hartwell screaming. The cook saw me enter, if you "
-                "doubt my word."
+                "doubt my word.”"
             ),
             "What was your relationship with Lord Ravenwood?": (
-                "Business rivals, nothing more. He outbid me on a Ming vase last "
+                "“Business rivals, nothing more. He outbid me on a Ming vase last "
                 "week by spiteful means. I shouted some words I regret — but I do "
-                "not kill men over porcelain, Detective. There are easier ways."
+                "not kill men over porcelain, Detective. There are easier ways.”"
             ),
             "Did you see anyone near the study?": (
-                "From the garden I saw a light in the study window until about "
+                "“From the garden I saw a light in the study window until about "
                 "11:40, then it went out. A shadow moved across the curtain "
-                "shortly before. I thought nothing of it at the time."
+                "shortly before. I thought nothing of it at the time.”"
             ),
             "Why are you really here at the manor?": (
-                "Edmund invited me to discuss a truce. He owed money all over "
+                "“Edmund invited me to discuss a truce. He owed money all over "
                 "London and wished to settle our quarrel — ask Pembroke about the "
                 "loan, if you don't believe me. Edmund was in worse straits than "
-                "anyone knew."
+                "anyone knew.”"
             )
         }
     }
@@ -145,15 +168,15 @@ SCENE_ITEMS = {
         "image": "candlestick.jpg",
         "short": "A heavy brass candlestick stands on the desk.",
         "description": (
-            "A solid brass candlestick on the desk. Heavy enough to be a weapon. "
-            "Looking closely, you notice a faint reddish smear near its base — "
-            "but on closer inspection, it appears to be old sealing wax, not "
-            "blood. The candlestick is otherwise spotless, almost suspiciously "
-            "so. A servant may have polished it this very morning.\n\n"
-            "It may be worth noting in your book."
+            "The brass candlestick is heavy enough to fracture bone if swung with force.\n\n"
+            "Its polished surface gleams unnaturally brightly compared to the dustier objects nearby. "
+            "Near the base is a dull reddish mark, thin as dried varnish. "
+            "In dim light, it could almost be mistaken for blood.\n\n"
+            "Yet the stain flakes beneath the fingernail like brittle sealing wax.\n\n"
+            "Curiously, however, someone appears to have cleaned the candlestick very recently."
         ),
         "notebook_hint": (
-            "Brass candlestick: red smear is OLD SEALING WAX, not blood. "
+            "Brass candlestick: heavy enough and has red smear. "
             "Recently polished — almost too clean. Suspicious."
         )
     },
@@ -178,18 +201,19 @@ SCENE_ITEMS = {
         "image": "letter.jpg",
         "short": "A half-finished letter lies on the desk, ink still wet.",
         "description": (
-            "Lord Ravenwood was writing to his solicitor, Mr. Thornley. The ink "
-            "trails off mid-sentence as if the writer were interrupted:\n\n"
-            "  'My dear Thornley — I have decided to alter my will at once. The "
-            "  matter of the £5,000 lent to me by Dr. P— has come to light in "
-            "  a most disturbing way. I find that the signature on the loan "
-            "  document is not mine, but a clever forgery. I shall need to —'\n\n"
-            "The letter stops there. Whatever Lord Ravenwood was about to do "
-            "regarding Dr. Pembroke, he never finished writing it.\n\n"
-            "This letter is plainly important — record it carefully."
+            "The handwriting grows increasingly uneven toward the final lines, "
+            "as though Lord Ravenwood had been interrupted mid-thought:\n\n"
+            "‘My dear Thornley — I have recently uncovered certain irregularities "
+            "concerning the £5,000 claimed by Dr. P—. "
+            "Matters are more troubling than I first believed. "
+            "I fear the signature attached to the document may not be entirely genuine. "
+            "I shall need to—’\n\n"
+            "The sentence ends abruptly.\n\n"
+            "Whether Ravenwood intended accusation, reconciliation, or something else "
+            "entirely remains uncertain."
         ),
         "notebook_hint": (
-            "Letter: Lord Ravenwood discovered Dr. Pembroke FORGED his "
+            "Letter: Lord Ravenwood discovered Dr. Pembroke might FORGED his "
             "signature on a £5,000 loan. He was about to inform his solicitor. "
             "This might be Pembroke's motivation."
         )
@@ -220,25 +244,27 @@ SCENE_ITEMS = {
         "image": "medbag.jpg",
         "short": "Dr. Pembroke's worn leather medical bag, taken from his room.",
         "description": (
-            "With the constable's permission, you retrieve Dr. Pembroke's "
-            "medical bag from his guest room. The leather is well-worn from "
-            "years of use. Inside you find the usual implements: stethoscope, "
-            "small glass vials, bandages, a brass mortar and pestle.\n\n"
-            "The brass mortar is heavy — roughly the right shape and weight "
-            "to cause the wound on Lord Ravenwood's head. Its base appears "
-            "freshly washed, but the seams of the metalwork still hold a few "
-            "dark flecks that water alone could not reach. The handkerchief "
-            "wrapped around it bears a faint brown stain.\n\n"
-            "There is also a small empty vial labelled 'Chloral hydrate' — a "
-            "sleeping draught, and the entire bottle's dosage was enough for "
-            "the patient to use four times.\n\n"
-            "This may prove a very significant find. Record every detail."
+            "Dr. Pembroke’s medical bag rests heavily upon the table, "
+            "the dark leather softened and cracked by decades of use. "
+            "A faint scent of antiseptic and tobacco clings to it.\n\n"
+            "Inside are the expected tools of a country physician: "
+            "folded bandages, neatly labelled vials, surgical scissors, "
+            "and a small brass mortar and pestle tucked carefully beneath a cloth.\n\n"
+            "The mortar is surprisingly weighty when lifted. Its polished "
+            "surface reflects the firelight unevenly, interrupted here and "
+            "there by darker discolorations lodged deep within the engraved seams, "
+            "perhaps residue untouched by hurried cleaning, or perhaps merely tarnish from age.\n\n"
+            "Nearby lies an empty vial labelled Chloral Hydrate. "
+            "The dosage seems unusually strong for a simple sleeping draught, "
+            "though whether this reflects desperation, carelessness, or routine medical "
+            "practice is difficult to say.\n\n"
+            "Nothing here proves violence. "
+            "Yet something about the arrangement feels... recently disturbed."
         ),
         "notebook_hint": (
-            "Medical bag: brass mortar is heavy, right shape for the wound, "
+            "Medical bag: brass mortar is heavy, "
             "and has dark flecks in the seams (washed but not perfectly). "
             "Handkerchief faintly stained. Chloral hydrate vial empty — "
-            "victim may have been drugged before the blow."
         )
     },
     "the muddy boots by the kitchen door": {

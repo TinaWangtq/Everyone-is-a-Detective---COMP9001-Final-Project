@@ -1,0 +1,24 @@
+Detective T's Notebook
+Case: The Ravenwood Manor Mystery
+Started: 2026-05-24 16:58
+==================================================
+
+[16:58] [INFO] Detective T took the case.
+[16:58] [INFO] Case: The Ravenwood Manor Mystery
+[16:58] [Q&A: Miss Clara Hartwell] Q: Where were you at 11:47 PM last night?  ->  A: “In the library, I believe. The fire had burned quite low by then, and I remember losing track of the hour entirely.The butler brought me tea sometime after half past eleven — chamomile, though I scarcely touched it. I was attempting to read, but my thoughts were elsewhere.I heard no cry. No struggle. Only the old house settling around me... and then, at midnight, the scream.”
+[16:58] [Q&A: Miss Clara Hartwell] Q: What was your relationship with Lord Ravenwood?  ->  A: “Uncle Edmund could be difficult. Proud men often are.After my parents died, this house became my entire world. He provided for me, educated me, protected me in his own stern fashion. But affection was never something he expressed easily.Lately... we argued more than we once did. He disapproved of nearly everyone I trusted. Still, I never imagined...”
+
+She lowers her eyes.“I never imagined the house without him in it.”
+[16:59] [Q&A: Miss Clara Hartwell] Q: Did you see anyone near the study?  ->  A: “Dr. Pembroke passed through the corridor earlier in the evening. I remember hearing the clasp of his medical bag strike against the banister as he walked.He said Uncle Edmund was having difficulty sleeping again.After that... I’m less certain. At some point I thought I heard movement on the back staircase, slow footsteps, as though someone was trying not to be heard. But old houses create strange echoes at night.”
+[16:59] [Q&A: Miss Clara Hartwell] Q: Do you suspect anyone?  ->  A: “Mr. Crowe argued bitterly with Uncle just last week over a Ming vase. I heard him shout, 'You'll regret this, Edmund!' But murder? I cannot say. Dr. Pembroke is so very calm — perhaps too calm.”
+[16:59] [Q&A: Dr. Nigel Pembroke] Q: Where were you at 11:47 PM last night?  ->  A: “At my age, Detective, one develops rather predictable habits. I retired shortly after eleven.Edmund had requested a sleeping draught — nothing unusual, I assure you. He suffered dreadful insomnia whenever financial matters troubled him.I spent perhaps half an hour reading in my room. Some medical journals, if memory serves. After that, I extinguished the lamp and slept rather poorly.”
+[16:59] [CLUE] Brass candlestick: heavy enough and has red smear. Recently polished — almost too clean. Suspicious.
+[16:59] [CLUE] Open window: NO footprints below despite soft earth. Latch opened from inside. The 'intruder' theory is staged — the killer is someone INSIDE the manor.
+[16:59] [CLUE] Letter: Lord Ravenwood discovered Dr. Pembroke might FORGED his signature on a £5,000 loan. He was about to inform his solicitor. This might be Pembroke's motivation.
+[16:59] [CLUE] Letter-opener: The 'blood' on the blade doesn't look like real blood. What could it be? Victim was BLUDGEONED, not stabbed. This is NOT the weapon. This might be a false lead.
+[16:59] [CLUE] Brass candlestick: heavy enough and has red smear. Recently polished — almost too clean. Suspicious.
+[16:59] [CLUE] Medical bag: brass mortar is heavy, and has dark flecks in the seams (washed but not perfectly). Handkerchief faintly stained. Chloral hydrate vial empty — 
+[16:59] [CLUE] Crowe's boots: muddy, consistent with garden. Red smear might be BRICK DUST, not blood. His alibi (in the garden) is corroborated by the cook. Crowe is likely INNOCENT.
+[16:59] [CLUE] Library teacup: tea was indeed brought at 11:30 as Clara said. Butler corroborates. Dark drop on saucer is just spilt tea. Supports Clara's alibi.
+[17:00] [ACCUSATION] Accused Dr. Nigel Pembroke; key evidence: the doctor's medical bag
+[17:00] [RESULT] Case solved!

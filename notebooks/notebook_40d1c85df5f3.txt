@@ -1,0 +1,9 @@
+Detective Tina's Notebook
+Case: The Ravenwood Manor Mystery
+Started: 2026-05-24 16:48
+==================================================
+
+[16:48] [INFO] Detective Tina took the case.
+[16:48] [INFO] Case: The Ravenwood Manor Mystery
+[16:48] [Q&A: Miss Clara Hartwell] Q: Where were you at 11:47 PM last night?  ->  A: “In the library, I believe. The fire had burned quite low by then, and I remember losing track of the hour entirely.The butler brought me tea sometime after half past eleven — chamomile, though I scarcely touched it. I was attempting to read, but my thoughts were elsewhere.I heard no cry. No struggle. Only the old house settling around me... and then, at midnight, the scream.”
+[16:48] [Q&A: Miss Clara Hartwell] Q: What was your relationship with Lord Ravenwood?  ->  A: “Uncle Edmund could be difficult. Proud men often are.After my parents died, this house became my entire world. He provided for me, educated me, protected me in his own stern fashion. But affection was never something he expressed easily.Lately... we argued more than we once did. He disapproved of nearly everyone I trusted. Still, I never imagined...“She lowers her eyes.“I never imagined the house without him in it.“

@@ -1,0 +1,8 @@
+Detective T's Notebook
+Case: The Ravenwood Manor Mystery
+Started: 2026-05-24 16:50
+==================================================
+
+[16:50] [INFO] Detective T took the case.
+[16:50] [INFO] Case: The Ravenwood Manor Mystery
+[16:50] [Q&A: Miss Clara Hartwell] Q: What was your relationship with Lord Ravenwood?  ->  A: “Uncle Edmund could be difficult. Proud men often are.After my parents died, this house became my entire world. He provided for me, educated me, protected me in his own stern fashion. But affection was never something he expressed easily.Lately... we argued more than we once did. He disapproved of nearly everyone I trusted. Still, I never imagined...“She lowers her eyes.“I never imagined the house without him in it.“
