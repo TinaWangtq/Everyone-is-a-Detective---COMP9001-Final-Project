@@ -28,6 +28,8 @@ python app.py                 # ← starts the game server
 
 Then open **http://localhost:5000** in your browser.
 
+- Github link: https://github.com/TinaWangtq/Everyone-is-a-Detective---COMP9001-Final-Project.git
+
 ---
 ## General Game Flow
 
