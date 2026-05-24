@@ -1,10 +1,9 @@
 """
 plot.py — Plot data for "Everyone is a Detective"
 ==================================================
-All story content. Edit this file freely — the engine in game.py reads from
+All story content. The engine in game.py reads from
 it without needing any code changes.
 
-CASE: "The Ravenwood Manor Mystery"
 """
 
 # ============================================================

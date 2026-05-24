@@ -1,8 +1,4 @@
 """
-app.py — Flask web server for "Everyone is a Detective"
-========================================================
-Thin web layer. All game logic lives in game.py.
-
 Run with:
     pip install flask
     python app.py
